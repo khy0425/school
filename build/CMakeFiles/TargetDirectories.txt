@@ -1,0 +1,9 @@
+F:/Desktop/공부/학교/c/build/CMakeFiles/NightlyMemoryCheck.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/Experimental.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/Continuous.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/Nightly.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/School.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/PACKAGE.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/RUN_TESTS.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/ALL_BUILD.dir
+F:/Desktop/공부/학교/c/build/CMakeFiles/ZERO_CHECK.dir
